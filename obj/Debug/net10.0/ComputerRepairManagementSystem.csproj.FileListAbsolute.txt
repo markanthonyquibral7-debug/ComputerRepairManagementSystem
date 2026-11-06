@@ -1,0 +1,7 @@
+C:\Users\PUP-CITE-L1PC21\source\repos\ComputerRepairManagementSystem\obj\Debug\net10.0\CRMSForm.Form1.resources
+C:\Users\PUP-CITE-L1PC21\source\repos\ComputerRepairManagementSystem\obj\Debug\net10.0\ComputerRepairManagementSystem.csproj.GenerateResource.cache
+C:\Users\PUP-CITE-L1PC21\source\repos\ComputerRepairManagementSystem\obj\Debug\net10.0\ComputerRepairManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-CITE-L1PC21\source\repos\ComputerRepairManagementSystem\obj\Debug\net10.0\ComputerRepairManagementSystem.AssemblyInfoInputs.cache
+C:\Users\PUP-CITE-L1PC21\source\repos\ComputerRepairManagementSystem\obj\Debug\net10.0\ComputerRepairManagementSystem.AssemblyInfo.cs
+C:\Users\PUP-CITE-L1PC21\source\repos\ComputerRepairManagementSystem\obj\Debug\net10.0\ComputerRepairManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-L1PC21\source\repos\ComputerRepairManagementSystem\obj\Debug\net10.0\ComputerRepairManagementSystem.sourcelink.json
